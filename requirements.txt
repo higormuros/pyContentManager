@@ -1,0 +1,8 @@
+audioop-lts==0.2.1
+pydub==0.25.1
+pytube==15.0.0
+SpeechRecognition==3.14.2
+standard-aifc==3.13.0
+standard-chunk==3.13.0
+typing_extensions==4.13.2
+yt-dlp==2025.3.31
